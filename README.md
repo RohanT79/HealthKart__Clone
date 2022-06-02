@@ -20,11 +20,7 @@ Here're some of the project's best features:
 *   Home Page
 *   Products page
 *   Add to Cart Page
-*   Payments page
-
-<h2>🛠️ Installation Steps:</h2>
-
-  
+*   Payments page 
   
 <h2>💻 Built with</h2>
 
